@@ -1,0 +1,19 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 300px;
+}
+
+body{
+  background-color: rgb(164, 209, 247);
+  /*background: -webkit-linear-gradient(red 2%, blue 43%, black 55%);*/
+}
+
+#jumbotron1{
+  background-image: url(img/memoria.png);
+}
+
+#jumbotron2{
+  background-color: rgb(235, 152, 152);
+}
